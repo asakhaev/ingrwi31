@@ -8,7 +8,7 @@
 body {
     background-color:$color_primaire;
     @include desktopView($breackpoint) {
-        background-color:yellow;
+        background-color:rgb(98, 115, 116);
     }
 }
 
